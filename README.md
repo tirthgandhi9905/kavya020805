@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Tensorflow ,Figma, C++**
+- 🌱 I’m currently learning **Html,CSS,JavaScript ,Figma, C++**
 
 - 💬 Ask me about **C**
 
