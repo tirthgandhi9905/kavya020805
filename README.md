@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavya020805&label=Profile%20views&color=0e75b6&style=flat" alt="kavya020805" /> </p>
 
+[![An image of @kavya020805's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kavya020805)](https://holopin.io/@kavya020805)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kavya020805" alt="kavya020805" /></a> </p>
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript**
