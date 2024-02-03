@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kavya Chauhan</h1>
+<h1 align="center">Hii 👋 I'm Kavya Chauhan</h1>
 <h3 align="center">A passionate learner from DAIICT college, #Full Stack Developer</h3>
 
 ## 😂 Here is a random joke that'll make you laugh!
